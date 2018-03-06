@@ -19,14 +19,10 @@
  ## Dependencies
  
 React Router
-'''
-\"react-router\": \"^4.2.0\",
-'''
+> "react-router": "^4.2.0",
 
 React Router DOM
-'''
-"react-router-dom": "^4.2.2",
-'''
+> "react-router-dom": "^4.2.2",
 
 ### Build
 '''
