@@ -20,7 +20,7 @@
  
 React Router
 '''
-"react-router": "^4.2.0",
+\"react-router\": \"^4.2.0\",
 '''
 
 React Router DOM
