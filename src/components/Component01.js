@@ -13,7 +13,7 @@ export default class Component01 extends React.Component {
                 <hr />
                 Follow me(<a href="https://github.com/ShubhamKushwah/">Shubham Kushwah</a>) now! &#x1F604;
                 <hr />
-                Or atleast <a href="https://github.com/ShubhamKushwah/repo_name">Star the repo.️</a>
+                Or atleast <a href="https://github.com/ShubhamKushwah/react-boilerplate">Star the repo.️</a>
             </div>
         );
     }
