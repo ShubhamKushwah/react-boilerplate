@@ -42,3 +42,8 @@ PS: Don't forget to run this after cloning...
 ```
 npm install
 ```
+
+### Redux
+```
+npm install redux --save
+```
